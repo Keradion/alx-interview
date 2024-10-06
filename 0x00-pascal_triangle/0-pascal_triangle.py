@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-   Pascal's Triangle
+   Pascal's Triangle returns list of lists of n integers 
 """
 
 
