@@ -1,10 +1,13 @@
 #!/usr/bin/python3
 """
    Pascal's Triangle
-   returns a list of lists of integers representing the Pascal’s triangle of n:
 """
 
 def pascal_triangle(n):
+    '''
+          returns a list of lists of integers representing the Pascal’s triangle of n:
+    '''
+
     pascals_list = [[1], [1, 1]]
     list_to_append = []  # Denotes the nested list
     sum = 0  # Hold sum of list elements
