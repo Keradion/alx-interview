@@ -2,6 +2,7 @@
 """Make changes"""
 
 def makeChange(coins, total):
+    """ make changes function"""
     if total <= 0:
         return 0
 
